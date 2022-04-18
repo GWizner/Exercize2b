@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\Exercize2b\bin\Debug\net6.0\Exercize2b.exe
+C:\Users\Gregory Wizner\source\repos\Exercize2b\bin\Debug\net6.0\Exercize2b.deps.json
+C:\Users\Gregory Wizner\source\repos\Exercize2b\bin\Debug\net6.0\Exercize2b.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\Exercize2b\bin\Debug\net6.0\Exercize2b.dll
+C:\Users\Gregory Wizner\source\repos\Exercize2b\bin\Debug\net6.0\Exercize2b.pdb
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\Exercize2b.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\Exercize2b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\Exercize2b.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\Exercize2b.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\Exercize2b.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\Exercize2b.dll
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\refint\Exercize2b.dll
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\Exercize2b.pdb
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\Exercize2b.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\Exercize2b\obj\Debug\net6.0\ref\Exercize2b.dll
